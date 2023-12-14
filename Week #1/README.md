@@ -8,7 +8,6 @@
 ## Business Task
 Create a functional dashboard in Google Sheets to analyze and visualize data related to bike buyers. Your dashboard should provide insights into the behavior and preferences of bike buyers.
 ***
-***
 
 ## Solution
 Step 1:- Data Acquisition
