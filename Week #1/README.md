@@ -39,4 +39,5 @@ Document the steps you took to create the dashboard. Include explanations for yo
 ## Dashboard:
 Please note that the solution for the Project is here: [here](https://docs.google.com/spreadsheets/d/1rwvpJPQUQsXfROwjD26ykRWgOdwOqvj3dhl7Ow0T4AQ/edit#gid=1533418178)
 
-![image](C:\Users\w2c\Desktop\Week 1 Project _ Bike Sales - Google Sheets.pdf)
+![image] ![Screenshot (434)](https://github.com/radhika456/Prepinsta-Winter-Internship---Data-Analytics/assets/101452661/af9ab810-8db9-4a96-8ff0-d04da34e9331)
+
