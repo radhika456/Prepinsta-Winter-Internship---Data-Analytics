@@ -10,9 +10,9 @@ Create a functional dashboard in Google Sheets to analyze and visualize data rel
 ***
 
 ## Solution
+
 Step 1:- Data Acquisition
-Download the provided dataset or use a dataset of your choice related to bike buyers. Ensure it contains relevant information such as customer demographics, purchase history, and product preferences.
-Dataset Link:
+Download the provided dataset. Ensure it contains relevant information such as customer demographics, purchase history, and product preferences.
 
 Step 2:- Google Sheets Set-up
 Open a new Google Sheets document and import the dataset into a new sheet.
@@ -37,3 +37,4 @@ Step 8:- Documentation
 Document the steps you took to create the dashboard. Include explanations for your design choices and any challenges you faced. Create a summary of the insights gained and recommendations made.
 ***
 ## Dashboard:
+Please note that the solution for the Project is here: [here](https://docs.google.com/spreadsheets/d/1rwvpJPQUQsXfROwjD26ykRWgOdwOqvj3dhl7Ow0T4AQ/edit#gid=1533418178)
