@@ -1,6 +1,6 @@
-# Prepinsta-Winter-Internship---Data-Analytics
+# Prepinsta-Winter-Internship-Data-Analytics
 
-This repository serves as the solution for the 8 weeks internship programm from the **[# Prepinsta-Winter-Internship---Data-Analytics](https://prepinsta.com/data-analytics-internship/)**. 
+This repository serves as the solution for the 8 weeks internship programm from the **[# Prepinsta-Winter-Internship-Data-Analytics](https://prepinsta.com/data-analytics-internship/)**. 
 
 A special thanks to [Prepinsta] for creating these insightful and engaging Internship Program! 👋🏻 
 
