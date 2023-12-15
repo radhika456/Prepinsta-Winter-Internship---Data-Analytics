@@ -10,6 +10,8 @@ Develop a simple game in Python, titled “Frog and Leap,” to showcase your pr
 ***
 
 ## Solution
+Please note that the solution for the Project is [here](https://colab.research.google.com/drive/1nwZceo-KTebtquhBa9badYhoGTB_lbu2?usp=sharing)
+
 Game Concept:
 Understand the concept of the Frog and Leap game by playing the reference game provided.
 Identify key elements such as player controls, game mechanics, and scoring.
