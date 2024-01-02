@@ -15,6 +15,6 @@ Explore the realm of data visualization in Python by utilizing powerful librarie
 ***
 
 ## Solution
-Please note that the solution for the Project is 
+Please note that the solution for the Project is [here](https://github.com/radhika456/Prepinsta-Winter-Internship---Data-Analytics/blob/master/Week%234/week_4_solution.ipynb)
 
 
