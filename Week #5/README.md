@@ -1,4 +1,4 @@
-# Project 5:- SQL Detective Challenge
+# Project 5:- SQL Detective Challenge and Web Scrapping
 ## 📚 Table of Contents
 - [Business Task](#business-task)
 - [Solution](#solution)
@@ -14,8 +14,13 @@ A crime has taken place and the detective needs your help. The detective gave yo
 
 Analyze the results of your SQL queries to piece together the sequence of events and identify potential suspects.
 Conclude the detective challenge by summarising your findings and presenting a compelling case.
+
+## Web Scrapping 
+The next task of this week to web scrapping using Beautiful soup Library.
+The site which is used to web scrapping is [here](http://books.toscrape.com/)
   
 ***
 
 ## Solution
-Please note that the solution for the Project is [here]()
+Please note that the solution for the SQL Murder Mystery is [here]()
+And solution for web scrapping is [here]()
