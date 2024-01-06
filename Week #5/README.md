@@ -22,5 +22,5 @@ The site which is used to web scrapping is [here](http://books.toscrape.com/)
 ***
 
 ## Solution
-Please note that the solution for the SQL Murder Mystery is [here]()
+Please note that the solution for the SQL Murder Mystery is [here](https://github.com/radhika456/Prepinsta-Winter-Internship---Data-Analytics/blob/master/Week%20%235/murder_mystery.ipynb)
 And solution for web scrapping is [here]()
