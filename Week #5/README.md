@@ -16,11 +16,11 @@ Analyze the results of your SQL queries to piece together the sequence of events
 Conclude the detective challenge by summarising your findings and presenting a compelling case.
 
 ## Web Scrapping 
-The next task of this week to web scrapping using Beautiful soup Library.
-The site which is used to web scrapping is [here](http://books.toscrape.com/)
+- The next task of this week to web scrapping using Beautiful soup Library.
+- The site which is used to web scrapping is [here](http://books.toscrape.com/)
   
 ***
 
 ## Solution
-Please note that the solution for the SQL Murder Mystery is [here](https://github.com/radhika456/Prepinsta-Winter-Internship---Data-Analytics/blob/master/Week%20%235/murder_mystery.ipynb)
-And solution for web scrapping is [here]()
+- Please note that the solution for the SQL Murder Mystery is [here](https://github.com/radhika456/Prepinsta-Winter-Internship---Data-- Analytics/blob/master/Week%20%235/murder_mystery.ipynb)
+- And solution for web scrapping is [here]()
