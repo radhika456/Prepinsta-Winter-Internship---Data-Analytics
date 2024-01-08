@@ -1,7 +1,7 @@
 # Project 1:- Excel Dashboard
 ## 📚 Table of Contents
 - [Business Task](#business-task)
-- [Insights From Dashboard](##Insights From Dashboard)
+- [Insights From Dashboard](#Insights From Dashboard)
 - [Dashboard](#dashboard)
 
 ***
@@ -9,7 +9,7 @@
 ## Business Task
 Create a functional dashboard in Google Sheets to analyze and visualize data related to bike buyers. Your dashboard should provide insights into the behavior and preferences of bike buyers.
 ***
-
+***
 ## Insights From Dashboard
 Insights from the Analysis:
 
