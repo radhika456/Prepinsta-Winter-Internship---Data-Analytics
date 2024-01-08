@@ -1,7 +1,7 @@
 # Project 1:- Excel Dashboard
 ## 📚 Table of Contents
 - [Business Task](#business-task)
-- [Insights From Dashboard](#Insights From Dashboard)
+- [Insights From Dashboard](##Insights From Dashboard)
 - [Dashboard](#dashboard)
 
 ***
