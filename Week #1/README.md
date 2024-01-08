@@ -1,40 +1,50 @@
 # Project 1:- Excel Dashboard
 ## 📚 Table of Contents
 - [Business Task](#business-task)
-- [Solution](#solution)
+- [Insights From Dashboard](#Insights From Dashboard)
 - [Dashboard](#dashboard)
+
 ***
 
 ## Business Task
 Create a functional dashboard in Google Sheets to analyze and visualize data related to bike buyers. Your dashboard should provide insights into the behavior and preferences of bike buyers.
 ***
 
-## Solution
+## Insights From Dashboard
+Insights from the Analysis:
 
-Step 1:- Data Acquisition
-Download the provided dataset. Ensure it contains relevant information such as customer demographics, purchase history, and product preferences.
+Bar Chart (Marital Status):
+How does the count of bike purchases vary among different marital statuses? Are married individuals more likely to purchase bikes?
+Part 1: Single pensons tend to purchase more bikes than Married by 17 bikes
+Part 2 No. The Married individuals are less likely to purchase bikes
 
-Step 2:- Google Sheets Set-up
-Open a new Google Sheets document and import the dataset into a new sheet.
-You should be familiar with the basic functionalities of Google Sheets, including data sorting, filtering, and basic formulas.
+ Bar Chart (Gender):
+Does gender influence bike purchases, and if so, to what extent?
+Ves, gender does intfuence bike purchases as we can see that more male purchases bikes than fernales Males outrun Female figure by 3 bikes
 
-Step 3 Data Exploration
-Explore the dataset to understand its structure and contents. Identify key variables to provide insights into bike buyers’ behavior and preferences.
+ Histogram (Income):
+What is the distribution of income among bike buyers? Are there specific income brackets that show a higher likelihood of bike purchases?
+The distribution of income among bike buyers are shown in dashboard People with income as 6,00,000 INR show a higher likelihood of bike purchases
 
-Step 4:- Dashboard Design
-Plan the layout of your dashboard, deciding which key metrics and visualizations you want to include. Create separate sections for demographics, purchasing trends, and any other relevant categories.
+Histogram (Age):
+Are certain age groups more inclined to purchase bikes?
+Age group of 35-39 are more inclined to purchase bikes
 
-Step 5:- Data analysis and visualization
-Utilize Google Sheets features to perform data analysis. This may include creating pivot tables, charts, and graphs. Visualize key metrics such as customer age distribution, popular bike models, and purchasing patterns.
+  Pie Chart (Region):
+Are there regions where bike purchases are notably higher?
+North American region seems to have riotably higher bike purchases7 
+Scatter Plot (Income vs. Age):
+Do individuals with higher incomes tend to be in specific age groups?
+Age group of 45-40 specifically tend to have higher incomes.
 
-Step 6:- Interactive Elements
-Enhance your dashboard with interactive elements like dropdown menus or filters to allow users to explore the data dynamically. Ensure that your dashboard is user-friendly and provides a seamless experience.
+Stacked Bar Chart (Marital Status & Gender):
+How does the distribution of bike purchases differ when considering both marital status and gender simultaneously? Are there notable patterns?
+Married Men purchases more bikes than Mamed Women, Single Women purchases more bike than Sirigie Men
 
-Step 7:-  Insights and Recommendation
-Draw insights from your analysis and use them to make informed recommendations. For example, which bikes are most popular among certain age groups or demographics?
+ Correlation Heatmap (Numeric Variables):
+What variables show a strong correlation, and how might this influence purchasing behavior?
+Income and variables show strong correlation when it comes to region like North America where more bikes are purchased.
 
-Step 8:- Documentation
-Document the steps you took to create the dashboard. Include explanations for your design choices and any challenges you faced. Create a summary of the insights gained and recommendations made.
 ***
 ## Dashboard:
 Please note that the solution for the Project is here: [here](https://docs.google.com/spreadsheets/d/1rwvpJPQUQsXfROwjD26ykRWgOdwOqvj3dhl7Ow0T4AQ/edit#gid=1533418178)
